@@ -7,7 +7,7 @@
 ## Sobre
 Calculadora feita utilizando React no curso da COD3R
 ## Preview
-![image](https://user-images.githubusercontent.com/68917493/177023813-10d8ea68-ad9d-4147-adc1-cf9b32dbe5c8.png)
+![image](https://user-images.githubusercontent.com/68917493/184509920-cb4514fc-3b50-4d5b-9fb7-ae3789323cb9.png)
 
 #### Como executar o projeto
 ```
